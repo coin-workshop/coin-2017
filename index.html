@@ -13,7 +13,10 @@ title: COIN
     </a>
   </h1>
   <div class="post-date">{{ post.date | date: "%b %-d, %Y" }}</div>
-  {{ post.content }}
+  
+  <div class="content">
+    {{ post.content }}
+  </div>
 </article>
 
 {% endfor %}
