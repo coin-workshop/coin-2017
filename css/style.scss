@@ -172,7 +172,7 @@ table {
 //   -- centers page content
 
 .container {
-  max-width: 38rem;
+  max-width: 100%;//38rem;
   padding-left:  1rem;
   padding-right: 1rem;
   margin-left:  auto;
@@ -236,14 +236,17 @@ table {
 
 ////////////////////////
 // Content
+.content{
+  
+  width: 50%;
+}
 
 .highlighter-rouge{
-  width: 20px;
+  width: 100%;
   margin: 0px 0px 0px 0px;
 }
 
 .highlighter-rouge code{
   color: black;
-  width: 20px;
-  background-color: green;
+
 }
