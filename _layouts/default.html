@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <title>{{ page.title }} - {{ site.title }}</title>
+            <!-- link to main stylesheet -->
+            <link rel="stylesheet" type="text/css" href="/css/main.css">
+        </head>
+        <body>
+            <nav>
+                <ul>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/about">About</a></li>
+                    <li><a href="/cfp">Call for Papers</a></li>
+                    <!-- <li><a href="/blog">Blog</a></li> -->
+                </ul>
+            </nav>
+            <div class="container">
+                <div class="blurb">
+                    <h1 id="main_title">COIN@AAMAS 2017</h1>
+                    <p id="subtitle">Coordination, Organizations, Institutions and Norms</p>
+                </div><!-- /.blurb -->
+                
+                {{ content }}
+            
+            </div><!-- /.container -->
+            <footer>
+                <ul>
+                    <li><a href="mailto:jpaulo.aires@gmail.com">email</a></li>
+                    <li><a href="https://github.com/coin-workshop/coin-2017">our Github page</a></li>
+                </ul>
+            </footer>
+        </body>
+    </html>

@@ -1,0 +1,22 @@
+# site.title, site.url
+
+title: 'COIN@AAMAS 2017'
+name: COIN 2017
+
+# site.path and site.url
+
+path: /coin-2017
+url: 'http://coin-workshop.github.io/coin-2017'
+
+# settings
+
+markdown: krandown
+
+sass:
+  sass_dir: css
+  style:    expanded
+
+permalink: /:title.html
+
+safe: true
+lsi: false
