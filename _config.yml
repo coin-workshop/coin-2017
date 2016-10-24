@@ -1,16 +1,21 @@
-# site.title, site.url
+###########
+# site.title, site.url, site.author.name
 
-title: 'COIN@AAMAS 2017'
-name: COIN 2017
+title:   'Jekyll Minimal Theme'
+author:
+  name:  'Jekyll Minimal Theme Team'
 
-# site.path and site.url
+## note: 
+#  use site.path in your templates to make it work for both protocols e.g. http and https
+#  use site.url only inside the web feed template (e.g. requires full url incl. protocol)
+path: /jekyll-minimal-theme  
+url:  'http://henrythemes.github.io/jekyll-minimal-theme'
 
-path: /coin-2017
-url: 'http://coin-workshop.github.io/coin-2017'
 
-# settings
+########
+# more settings
 
-markdown: krandown
+markdown: kramdown
 
 sass:
   sass_dir: css
@@ -18,5 +23,10 @@ sass:
 
 permalink: /:title.html
 
+exclude:
+- README.md
+
+
 safe: true
 lsi: false
+
