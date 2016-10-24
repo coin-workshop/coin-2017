@@ -238,6 +238,12 @@ table {
 // Content
 
 .highlighter-rouge{
+  background: blue;
   color: red;
   text-align: justify;
+}
+
+.highlighter-rouge code{
+  background: green;
+  margin-left: 0;
 }
