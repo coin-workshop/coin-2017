@@ -100,8 +100,9 @@ pre {
   font-family: $code-font-family;
 }
 code {
-  padding: .25em .5em;
+  //padding: .25em .5em;
   font-size: 85%;
+  width: 50%;
 }
 
 pre {
@@ -232,21 +233,4 @@ table {
 
 .post-date {
   color: $post-date-color;  
-}
-
-////////////////////////
-// Content
-.content{
-  
-  width: 50%;
-}
-
-.highlighter-rouge{
-  width: 50%;
-  margin: 0px 0px 0px 0px;
-}
-
-.highlighter-rouge code{
-  color: black;
-  width: 50%;
 }
