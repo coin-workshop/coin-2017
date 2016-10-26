@@ -3,15 +3,9 @@ layout: default
 title: COIN
 ---
 
-{{ array_test = [1, 2, 3] }}
-
-{% for item in array_test %}
-
-  <p>{{item}}</p>
-
-{% endfor %}
-
 {% for post in site.posts %}
+
+  {% if post.title == 'COIN 2017' %}
 
 <article class='post'>
   <h1 class='post-title'>
@@ -27,9 +21,6 @@ title: COIN
     {{ post.content }}
   </div>
 </article>
+  {% endif %}
 
 {% endfor %}
-
-
-
-{{site.posts}}
