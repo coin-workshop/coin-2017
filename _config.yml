@@ -1,15 +1,15 @@
 ###########
 # site.title, site.url, site.author.name
 
-title:   'COIN@AAMAS 2017'
+title:   'COIN@AAMAS 2017 Website'
 author:
   name:  'COIN 2017'
 
 ## note: 
 #  use site.path in your templates to make it work for both protocols e.g. http and https
 #  use site.url only inside the web feed template (e.g. requires full url incl. protocol)
-path: /coin-2017  
-url:  'http://coin-workshop.github.io/coin-2017'
+path: /coin-2017-brazil  
+url:  'http://coin-workshop.github.io/coin-2017-brazil'
 
 
 ########
