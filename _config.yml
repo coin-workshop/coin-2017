@@ -16,6 +16,7 @@ url:  'http://coin-workshop.github.io/coin-2017-brazil'
 # more settings
 
 markdown: kramdown
+theme: minima
 
 sass:
   sass_dir: css
