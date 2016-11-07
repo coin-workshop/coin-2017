@@ -5,6 +5,8 @@ title: COIN
 
 # COIN 2017
 
+*small modification*
+
 ### OBJECTIVES
 
 The pervasiveness of open systems raises a range of challenges and opportunities for research and technological development in the area of autonomous agents and multi-agent systems.
