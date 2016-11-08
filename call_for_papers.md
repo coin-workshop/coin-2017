@@ -30,7 +30,8 @@ Of particular interest for the workshop are those papers that articulate a chall
 COIN is ranked B on the CORE Conference Ranking list: [http://portal.core.edu.au/conf-ranks/2160/](http://portal.core.edu.au/conf-ranks/2160/)
 
 
-### IMPORTANT DATES
+## IMPORTANT DATES
+(These dates are subject to later updates)
 
 February 7, 2017: Deadline for paper submissions
 
