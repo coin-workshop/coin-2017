@@ -5,7 +5,7 @@ title: COIN
 
 # Coordination, Organizations, Institutions and Norms
 
-## OBJECTIVES
+## Objectives
 
 Coordination, organizations, institutions and norms are four key governance elements, and the COIN workshops constitute a space for debate and exploration of these four elements for the design and use of open systems.
 We seek to attract high-quality papers and an active audience to debate mathematical, logical, computational, methodological, implementational, philosophical and pragmatic issues related to the four aspects of COIN.
@@ -15,7 +15,7 @@ The design, engineering, analysis and verification (among other activities) of s
 This workshop, a long-standing satellite event of past versions of AAMAS, IJCAI and ECAI for more than 10 years, is to bring together researchers and practitioners in autonomous agents and multi-agent systems working on the scientific and technological aspects of social coordination, organizational theory, normative (multi-agent) systems, artificial or electronic institutions and norm-aware agents.
 
 
-## IMPORTANT DATES
+## Important Dates
 
 February 7, 2017: Deadline for paper submissions
 

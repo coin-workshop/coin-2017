@@ -35,7 +35,7 @@ As with previous COIN workshops, we will have an LNCS postproceedings. Authors w
 
 Revised papers must take into account the discussion held during the workshop; hence, only papers that are presented during the workshop will be considered for inclusion in the post-proceedings volume.
 
-## IMPORTANT DATES
+## Important Dates
 (These dates are subject to later updates)
 
 February 7, 2017: Deadline for paper submissions
