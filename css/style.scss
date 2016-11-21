@@ -190,6 +190,7 @@ table {
   margin-bottom: 3rem;
 
  .masthead-title {
+    padding: 5px;
     margin-top: 0;
     margin-bottom: 0;
     color: $masthead-color;
@@ -207,7 +208,7 @@ table {
 
     span {
       color: black;
-      margin-left: 1px;
+      margin-left: 5px;
     }
   }
 }
