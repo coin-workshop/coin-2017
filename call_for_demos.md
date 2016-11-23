@@ -42,7 +42,7 @@ The demonstration submissions must be within four pages in AAMAS proceedings sty
 - Discussion of the present state of your demo (e.g. ready to demonstrate now, but if not, include a realistic estimate for conclusion and what remains to be done before you have a demonstrable system)
 
 
-Demos must be submitted electronically in online submission system.
+Demos must be submitted electronically to the EasyChair online submission system at: [https://easychair.org/conferences/?conf=coin2017](https://easychair.org/conferences/?conf=coin2017).
 
 
 ## Selection Criteria

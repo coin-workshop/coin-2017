@@ -1,0 +1,73 @@
+Call for Demos
+==============
+
+We are inviting proposals for demonstrations to be displayed at the Demo
+Session that will be organised during the COIN@AAMAS 2017 workshop. We
+expect submissions of demos of agent and multi-agent systems that
+incorporate state-of-the-art techniques and novel application domains,
+and provide an innovative intelligent user interface. Demonstrated
+software is not required to be ready for commercial application, as long
+as it is of interest to the COIN community.
+
+A demo proposal needs to describe:
+
+-   the motivation for the demonstrated concepts;
+-   the software design behind the demo;
+-   the development and functionality of the work in an interactive
+    setting;
+-   the significance of the contribution both from a research and from a
+    practical perspective.
+
+The COIN 2017 Demo Session will provide researchers and practitioners an
+exciting and highly interactive way to explore new ideas and results.
+
+Accepted demo papers will be published in the COIN 2017 Workshop
+Proceedings.
+
+Submission Guidelines
+---------------------
+
+The demonstration submissions must be within four pages in AAMAS
+proceedings style (double-column pages) and must include:
+
+-   Title
+-   Authors (name, affiliation, email, address, phone and fax)
+-   Corresponding author with her/his email address
+-   Abstract (max. 150 words)
+-   Keywords
+-   Category of the submission
+-   URL for the demo software (if available)
+-   Paper ID if the demo is related to a paper at the main conference
+-   Equipment you will bring (e.g. laptop, projector)
+-   Equipment you will need (e.g. table, poster board, power sockets)
+-   Special requirements (e.g. extra space and if so how much,
+    video projector)
+-   Discussion of the present state of your demo (e.g. ready to
+    demonstrate now, but if not, include a realistic estimate for
+    conclusion and what remains to be done before you have a
+    demonstrable system)
+
+Demos must be submitted electronically to the EasyChair online
+submission system at:
+<https://easychair.org/conferences/?conf=coin2017>.
+
+Selection Criteria
+------------------
+
+-   Relevance to the COIN community
+-   Novelty of the application domain
+-   Technical advances and challenges
+-   Quality and soundness of the underlying technology
+-   Potential for public interaction
+-   Overall attractiveness of the demonstrated system
+
+Important Dates
+---------------
+
+All deadlines are at 23:59 UTC-12.
+
+-   February 7, 2017: Deadline for demo submissions
+-   March 2, 2017: Demo notifications
+-   March 9, 2017: Camera-ready copy due
+-   May 8 or 9, 2017: Date of workshop
+
