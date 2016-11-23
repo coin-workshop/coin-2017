@@ -1,5 +1,3 @@
 # COIN 2017
 
-We are going to create a website soon.
-
-- I'm thinking of following this website [Guide to Creating Websites with Github](http://jmcglone.com/guides/github-pages/)
+Website for the [2017 edition of COIN](http://coin-workshop.github.io) to be hosted at AAMAS 2017 in São Paulo. 
