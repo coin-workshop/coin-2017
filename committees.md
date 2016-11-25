@@ -13,6 +13,7 @@ title: COIN
 ## Programme Committee 
 
 - Mohsen Afsharchi (University of Zanjan, IR)
+- João Paulo Aires (PUCRS, BR)
 - Juan Antonio Rodriguez Aguilar (IIIA-CSIC, ES)
 - Huib Aldewereld (Delft University of Technology, NL)
 - Estefania Argente (Universidad Politecnica de Valencia, ES)
