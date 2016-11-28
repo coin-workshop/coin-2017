@@ -42,6 +42,7 @@ title: COIN
 - Daniel Moldt (University of Hamburg, DE)
 - Timothy Norman (University of Southampton, UK)
 - Nir Oren (University of Aberdeen, UK)
+- Simon Parsons (University of Liverpool, UK)
 - Alessandro Ricci (University of Bologna, IT)
 - Ana Paula Rocha (IACC - University of Porto, PT)
 - Bastin Tony Roy Savarimuthu (University of Otago, NZ)
