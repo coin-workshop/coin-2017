@@ -5,55 +5,51 @@ title: COIN
 
 # Call for Demos
 
-We are inviting proposals for demonstrations to be displayed at the Demo Session that will be organised during the COIN@AAMAS 2017 workshop. We expect submissions of demos of agent and multi-agent systems that incorporate state-of-the-art techniques and novel application domains, and provide an innovative intelligent user interface. Demonstrated software is not required to be ready for commercial application, as long as it is of interest to the COIN community.
+We invite submissions of prototypes and demonstrators to be presented at the Demo Session during the COIN@AAMAS 2017 workshop. We expect submissions of tools as well as software agents and multi-agent systems incorporating state-of-the-art techniques and novel application domains from coordination, organizations, institutions and norms. The submitted software does not have to be ready for commercial application, but it should be of interest to the COIN community.
 
 
-A demo proposal needs to describe:
+A demo proposal should provide:
 
-- the motivation for the demonstrated concepts;
-- the software design behind the demo;
-- the development and functionality of the work in an interactive setting;
-- the significance of the contribution both from a research and from a practical perspective.
+-   the motivation for the software/prototype;
+-   the design behind the software/prototype;
+-   the development process and main functionalities, using illustrative examples;
+-   the significance of the software/prototype from a research and practical perspectives.
 
 
 The COIN 2017 Demo Session will provide researchers and practitioners an exciting and highly interactive way to explore new ideas and results.
 
 
-Accepted demo papers will be published in the COIN 2017 Workshop Proceedings.
-
+Accepted demo papers will be published in the COIN 2017 Workshop Proceedings. Preliminary proceedings will be available before the conference. They will also be distributed to AAMAS 2017 registrants in electronic form. As with previous COIN workshops, we will have an LNCS post-workshop proceedings. Authors will be invited to submit revised and extended versions of their paper for consideration for a Springer LNCS volume combining the post-proceedings of this workshop with those for a second COIN workshop to be held later in 2017. Revised papers must take into account the discussion held during the workshop; hence, only papers that are presented during the workshop will be considered for inclusion in the post-proceedings volume.
 
 ## Submission Guidelines
 
 
-The demonstration submissions must be within four pages in AAMAS proceedings style (double-column pages) and must include:
-
-
-- Title
-- Authors (name, affiliation, email, address, phone and fax)
-- Corresponding author with her/his email address
-- Abstract (max. 150 words)
-- Keywords
-- Category of the submission
-- URL for the demo software (if available)
-- Paper ID if the demo is related to a paper at the main conference
-- Equipment you will bring (e.g. laptop, projector)
-- Equipment you will need (e.g. table, poster board, power sockets)
-- Special requirements (e.g. extra space and if so how much, video projector)
-- Discussion of the present state of your demo (e.g. ready to demonstrate now, but if not, include a realistic estimate for conclusion and what remains to be done before you have a demonstrable system)
+The demonstration submissions must be up to ten pages using the Springer LNCS proceedings style and must include:
+-   Title
+-   Authors (name, affiliation, email, address, phone and fax)
+-   Corresponding author with her/his email address
+-   Abstract (max. 150 words)
+-   Keywords
+-   URL for the demo software (if available)
+-   Equipment you will bring (e.g. laptop, projector)
+-   Equipment you will need (e.g. table, poster board, power sockets)
+-   Special requirements (e.g. extra space and if so how much, video projector)
+-   Discussion of the current state of development of the demo (e.g. ready to demonstrate; if not, you must include an estimate for completion)
 
 
 Demos must be submitted electronically to the EasyChair online submission system at: [https://easychair.org/conferences/?conf=coin2017](https://easychair.org/conferences/?conf=coin2017).
 
+Submission of a paper should be regarded as an agreement that, should the paper be accepted, at least one of the authors will attend the workshop to present the work.
 
 ## Selection Criteria
 
 
-- Relevance to the COIN community
-- Novelty of the application domain
-- Technical advances and challenges
-- Quality and soundness of the underlying technology
-- Potential for public interaction
-- Overall attractiveness of the demonstrated system
+-   Relevance to the COIN community
+-   Novelty of the application domain
+-   Technical advances and challenges
+-   Quality and soundness of the underlying technology
+-   Potential for public interaction
+-   Overall attractiveness of the demonstrated system
 
 
 ## Important Dates
