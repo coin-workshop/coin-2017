@@ -17,7 +17,8 @@ This workshop, a long-standing satellite event of past versions of AAMAS, IJCAI 
 
 ## Important Dates
 
-- February 7, 2017: Deadline for paper submissions
+- ~~February 7, 2017: Deadline for paper submissions~~
+- February 15, 2017: Deadline for paper submissions
 - March 2, 2017: Paper notifications sent
 - March 9, 2017: Camera-ready copy due
 - May 8 or 9, 2017: Date of workshop
