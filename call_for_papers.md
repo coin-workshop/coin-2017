@@ -28,7 +28,7 @@ COIN has a B-rating on the Computing Research and Education Association of Austr
 ## Important Dates
 (These dates are subject to later updates)
 
-- February 7, 2017: Deadline for paper submissions
+- ~~February 7, 2017~~ February 15, 2017: Deadline for paper submissions
 - March 2, 2017: Paper notifications sent
 - March 9, 2017: Camera-ready copy due
 - May 8 or 9, 2017: Date of workshop
