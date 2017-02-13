@@ -7,7 +7,7 @@ title: COIN
 
 ## INSTRUCTIONS FOR AUTHORS
 
-For preparation of papers please follow the instructions for authors available at the [https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines](Springer LNCS Web page).
+For preparation of papers please follow the instructions for authors available at the [Springer LNCS Web page](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).
 The length of each paper including figures and references may not exceed 16 pages.
 All papers must be written in English and submitted in PDF format. 
 
