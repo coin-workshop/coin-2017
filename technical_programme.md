@@ -6,7 +6,7 @@ title: COIN
 # Technical Programme
 
 | Time           |      Activity      |  Presenters |
-|----------------:|-------------|------:|
+|----------------:|-------------|:------:|
 | 9:00-11:00   |  <a href="#paper1">First paper session</a>      | TBD |
 | 11:00-11:30 |  Coffee Break                |  TBD |
 | 11:30-13:00 |  <a href="#posters">Poster session</a>             |  TBD |
