@@ -3,7 +3,7 @@ layout: default
 title: COIN
 ---
 
-# Technical Programme
+# Technical Programme (Tentative)
 
 | Time           |      Activity      |  Presenters |
 |----------------:|-------------|:------:|
