@@ -18,19 +18,19 @@ title: COIN
 
 ## Accepted Papers
 
-### <span label="paper1">First paper session</span>
+### <span id="paper1">First paper session</span>
 
 - James Marchant and Nathan Griffiths. Convention Emergence in Partially Observable Topologies
 - Jieting Luo, John-Jules Meyer and Max Knobbout. Reasoning about Opportunistic Propensity in Multi-agent Systems
 - João Paulo Aires and Felipe Meneguzzi. A Deep Learning Approach for Norm Conflict Identification
 
 
-### <span label="paper2">Second paper session</span>
+### <span id="paper2">Second paper session</span>
 
 - Ramon Fraga Pereira, Nir Oren and Felipe Meneguzzi. A Plan Optimality Monitoring Approach to Detect Commitment Abandonment
 - Bastin Tony Roy Savarimuthu, Sherlock Licorish, Manjula Devananda, Georgia Greenheld, Virginia Dignum and Frank Dignum. Developers’ responses to app review feedback – A study of communication norms in app development
 
-### <span label="posters">Poster session</span>
+### <span id="posters">Poster session</span>
 
 - Guilherme Krzisch and Felipe Meneguzzi. Planning in a Normative System
 - Flavio S Correa Da Silva, Paul Chung, Marcelo Zuffo, Petros Papapanagiotou, David Robertson and Wamberto Vasconcelos. Hazard identification for coordinated UAVs based on soft institutions
