@@ -7,11 +7,11 @@ title: COIN
 
 | Time           |      Activity      |  Presenters |
 |----------------:|-------------|------:|
-| 9:00-11:00   |  [First paper session][paper1]      | TBD |
+| 9:00-11:00   |  [First paper session] [paper1]      | TBD |
 | 11:00-11:30 |  Coffee Break                |  TBD |
-| 11:30-13:00 |  [Poster session][posters]             |  TBD |
+| 11:30-13:00 |  [Poster session] [posters]             |  TBD |
 | 13:00-14:30 |  Lunch                           |  TBD |
-| 14:30-15:30 |  [Second paper session][paper2] |  TBD |
+| 14:30-15:30 |  [Second paper session] [paper2] |  TBD |
 | 15:30-16:30 |  Demo Session |  TBD |
 | 16:30-17:00 |  Coffee Break                |  TBD |
 | 17:00-18:30 |  Keynote                        |  TBD |
