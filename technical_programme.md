@@ -39,5 +39,5 @@ The past quarter century has seen huge changes in technology with, for example, 
 
 - Guilherme Krzisch and Felipe Meneguzzi. Planning in a Normative System
 - Flavio S Correa Da Silva, Paul Chung, Marcelo Zuffo, Petros Papapanagiotou, David Robertson and Wamberto Vasconcelos. Hazard identification for coordinated UAVs based on soft institutions
-- Pablo Noriega, Jordi Sabater and Carles Sierra. Simulation of second order emergent social phenomena with the WIT framework
+- Pablo Noriega, Jordi Sabater-Mir, Harko Verhagen, Julian Padget and Mark d'Inverno. Identifying affordances for modelling second order emergent phenomena with the WIT framework
 <!-- - Missaoui Ezzine, Mazigh Belhassen, Bhiri Sami and Hilaire Vincent. NCRIO: Normative Holonic Metamodel for Multi-agent Systems -->
