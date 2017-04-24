@@ -14,7 +14,7 @@ title: COIN
 | 14:30-15:30 |  <a href="#paper2">Second paper session</a> |  TBD |
 | 15:30-16:30 |  Demo Session |  TBD |
 | 16:30-17:00 |  Coffee Break                |  TBD |
-| 17:00-18:00 |  <a href="keynote">Keynote</a>                     |  TBD |
+| 17:00-18:00 |  <a href="#keynote">Keynote</a>                     |  TBD |
 
 ## Keynote <a href="http://www.dcs.kcl.ac.uk/staff/mml/">Michael Luck</a>
 
