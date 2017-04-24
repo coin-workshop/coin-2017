@@ -14,7 +14,12 @@ title: COIN
 | 14:30-15:30 |  <a href="#paper2">Second paper session</a> |  TBD |
 | 15:30-16:30 |  Demo Session |  TBD |
 | 16:30-17:00 |  Coffee Break                |  TBD |
-| 17:00-18:30 |  Keynote                        |  TBD |
+| 17:00-18:00 |  <a href="keynote">Keynote</a>                     |  TBD |
+
+## Keynote <a href="http://www.dcs.kcl.ac.uk/staff/mml/">Michael Luck</a>
+
+### <span id="keynote">Reflections on a quarter century’s focus on autonomy and agents: full circle?</span>
+The past quarter century has seen huge changes in technology with, for example, autonomous vehicles more or less a reality. But what progress has been made in the broader context of such systems in our daily lives, and what relevance for the issues involved in COIN? In this talk, I’ll look back at some of the work undertaken 25 years ago, and consider why it might still be relevant (or even more relevant) today, and will try to consider what more needs to be done.
 
 ## Accepted Papers
 
