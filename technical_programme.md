@@ -27,7 +27,7 @@ The past quarter century has seen huge changes in technology with, for example, 
 
 - James Marchant and Nathan Griffiths. [Convention Emergence in Partially Observable Topologies](papers/00010001.pdf)
 - Jieting Luo, John-Jules Meyer and Max Knobbout. [Reasoning about Opportunistic Propensity in Multi-agent Systems](papers/00010017.pdf)
-- João Paulo Aires and Felipe Meneguzzi. [A Deep Learning Approach for Norm Conflict Identification](papers/00010033,pdf)
+- João Paulo Aires and Felipe Meneguzzi. [A Deep Learning Approach for Norm Conflict Identification](papers/00010033.pdf)
 
 
 ### <span id="paper2">Second paper session</span>
