@@ -7,14 +7,14 @@ title: COIN
 
 | Time           |      Activity      |  Presenters |
 |----------------:|-------------|:------:|
-| 9:00-11:00   |  <a href="#paper1">First paper session</a>      | TBD |
-| 11:00-11:30 |  Coffee Break                |  TBD |
-| 11:30-13:00 |  <a href="#posters">Poster session</a>             |  TBD |
-| 13:00-14:30 |  Lunch                           |  TBD |
-| 14:30-15:30 |  <a href="#paper2">Second paper session</a> |  TBD |
+| 9:00-11:00   |  <a href="#paper1">First paper session</a>      | Nathan Griffiths -- Jieting Luo -- Felipe Meneguzzi |
+| 11:00-11:30 |  Coffee Break                |  -- |
+| 11:30-13:00 |  <a href="#posters">Poster session</a>             |  Felipe Meneguzzi -- Flavio da Silva -- Juan Antonio Rodriguez |
+| 13:00-14:30 |  Lunch                           |  -- |
+| 14:30-15:30 |  <a href="#paper2">Second paper session</a> |  Felipe Meneguzzi -- Tony Savarimuthu |
 | 15:30-16:30 |  Demo Session |  TBD |
-| 16:30-17:00 |  Coffee Break                |  TBD |
-| 17:00-18:00 |  <a href="#keynote">Keynote</a>                     |  TBD |
+| 16:30-17:00 |  Coffee Break                |  -- |
+| 17:00-18:00 |  <a href="#keynote">Keynote</a>                     |  Michael Luck |
 
 ## Keynote <a href="http://www.dcs.kcl.ac.uk/staff/mml/">Michael Luck</a>
 
